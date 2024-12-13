@@ -6,7 +6,7 @@ class AjoutProjet {
             timeDev : document.getElementById("time")
         };
         
-        
-        
+    
+    
     }
 }
