@@ -18,3 +18,6 @@ header{
 body{
     background-image: linear-gradient(to left, blue, violet, blueviolet);
 }
+h1.tit{
+    font-size: 20rem;
+}
