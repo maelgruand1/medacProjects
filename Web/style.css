@@ -1,0 +1,14 @@
+/* Style css */
+header{
+    font: 800;
+    text-align: center;
+    color: white;
+}
+#descrip{
+    background: fixed;
+    background-image: linear-gradient(to right, black, grey);
+    padding: 35px;
+    text-align: center;
+    border: solid 0px;
+    border-radius: 700px;
+}
