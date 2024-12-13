@@ -12,3 +12,9 @@ header{
     border: solid 0px;
     border-radius: 700px;
 }
+.hidden{
+    display: none;
+}
+body{
+    background-image: linear-gradient(to left, blue, violet, blueviolet);
+}
